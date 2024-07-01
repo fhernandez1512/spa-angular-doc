@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example
-  description: example-description
+  name: spa-angular-doc
+  description: spa-angular-doc-description
   tags:
     - devops
     - jenkins
