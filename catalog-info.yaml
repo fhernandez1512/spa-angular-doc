@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: example
+  description: example-description
+  tags:
+    - "Devops"
+    - "Jenkins"
+  links:
+    - url: https://github.com/fhernandez1512/spa-angular-doc.git
+      title: SPA Angular doc example
+      icon: github
+spec:
+  lifecycle: production
+  type: archetype
+  owner: Fernando Hernández
+  system: public-websites
