@@ -4,8 +4,8 @@ metadata:
   name: example
   description: example-description
   tags:
-    - "Devops"
-    - "Jenkins"
+    - Devops
+    - Jenkins
   links:
     - url: https://github.com/fhernandez1512/spa-angular-doc.git
       title: SPA Angular doc example
