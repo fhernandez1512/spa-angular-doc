@@ -10,6 +10,8 @@ metadata:
     - url: https://github.com/fhernandez1512/spa-angular-doc.git
       title: SPA Angular doc example
       icon: github
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   lifecycle: production
   type: archetype
