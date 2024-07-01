@@ -2,4 +2,5 @@ site_name: 'example-docs'
 theme:
   name: 'mkdocs'
 
+docs_dir: 'docs'
 site_dir: 'site'
