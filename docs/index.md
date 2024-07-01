@@ -1,7 +1,7 @@
 # Angular Best Practices
 
 
-Is Your Head in an **Angular Cloud**?
+Is Your Head in an **Angular Cloud -- Index in docs folder **?
 
 ![Angular](images/angular.png)
 
