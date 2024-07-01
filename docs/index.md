@@ -1,27 +1,27 @@
 # Angular Best Practices
 
 
-Is Your Head in an **Angular Cloud -- Readme inside docs folder **?
+Is Your Head in an **Angular Cloud -- Index in docs folder **?
 
 ![Angular](images/angular.png)
 
 Clear things up with some tips on the Best Practices in developing rich applications using Angular. There is no 100% "best way" of writing code, but there definitely is a wrong way. This documentation is gathered from experiences, "trial and error", and growth of the Angular framework.
 
 
-- [Structure](docs/structure.md)
-- [Technology Stack](docs/technology-stack.md)
-- [RxJS Best Practices](docs/rxjs-best-practices.md)
-  - [Flattening Map Operators](docs/flattening-map-operators.md)
-  - [Common Patterns](docs/common-patterns.md)
-- [State Management](docs/state-management.md)
-- [Error Handling](docs/error-handling.md)
-- [API Connections & Mocking](docs/api-connections.md)
-- [Logging](docs/logging.md)
-- [CSS Best Practices](docs/css-best-practices.md)
-  - [BootStrap](docs/scss-bootstrap.md)
-  - [Material](docs/scss-material.md)
-- [Performance Considerations](docs/performance-considerations.md)
-- [Debugging Techniques](docs/debugging-techniques.md)
+- [Structure](structure.md)
+- [Technology Stack](technology-stack.md)
+- [RxJS Best Practices](rxjs-best-practices.md)
+    - [Flattening Map Operators](flattening-map-operators.md)
+    - [Common Patterns](common-patterns.md)
+- [State Management](state-management.md)
+- [Error Handling](error-handling.md)
+- [API Connections & Mocking](api-connections.md)
+- [Logging](logging.md)
+- [CSS Best Practices](css-best-practices.md)
+    - [BootStrap](scss-bootstrap.md)
+    - [Material](scss-material.md)
+- [Performance Considerations](performance-considerations.md)
+- [Debugging Techniques](debugging-techniques.md)
 
 
 ## Introduction

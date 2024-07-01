@@ -1,9 +1,9 @@
-site_name: 'example-docs'
+site_name: 'Documentation for SPA Angular Template'
 theme:
   name: 'mkdocs'
 
 nav:
   - Home: README.md
-    
+
 docs_dir: 'docs'
 site_dir: 'site'
