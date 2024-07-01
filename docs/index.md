@@ -8,7 +8,7 @@ Is Your Head in an **Angular Cloud -- Index in docs folder **?
 Clear things up with some tips on the Best Practices in developing rich applications using Angular. There is no 100% "best way" of writing code, but there definitely is a wrong way. This documentation is gathered from experiences, "trial and error", and growth of the Angular framework.
 
 
-- [Structure](docs/structure.md)
+- [Structure](structure.md)
 - [Technology Stack](docs/technology-stack.md)
 - [RxJS Best Practices](docs/rxjs-best-practices.md)
     - [Flattening Map Operators](docs/flattening-map-operators.md)
